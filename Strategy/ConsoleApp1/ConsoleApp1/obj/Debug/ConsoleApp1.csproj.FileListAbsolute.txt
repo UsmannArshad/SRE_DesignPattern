@@ -1,0 +1,7 @@
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Design Pattern\Strategy\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
